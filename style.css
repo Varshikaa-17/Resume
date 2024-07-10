@@ -1,0 +1,67 @@
+*{
+    padding:0;
+    margin:0;
+}
+  .container{
+    padding: 50px;
+  }
+  .section-one{
+    background-color:#C39898;
+    color:black;
+    padding:20px;
+  }
+  .section-container{
+    background-color: lightblue;
+    color:black;
+  }
+  .section-one__linkedin a{
+    color:white;
+  }
+  .section-one__email a{
+    color:white;
+  }
+  .section-one__contact a{
+    background-color:white;
+    color:black;
+    display:inline-block;
+    text-decoration: none;
+    padding-left:10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top:10px;
+  }
+  .section-two,.section-three,.section-four,.section-five,.section-six,.section-seven,.section-eight,.section-nine,.section-ten,.section-eleven,.section-tweleve{
+    margin-top:10px;
+  }
+  .section-two__desc1,.section-three__desc,.section-four__desc,.section-five__desc,.section-six__desc,.section-seven__desc,.section-eight__desc,.section-nine__desc,.section-ten__desc,.section-eleven__desc,.section-tweleve__desc{
+    margin-top:10px;
+  
+  }
+  .section-tweleve,.section-tweleve__sign{
+    padding-left:8px;
+    padding-top: 5px;
+  }
+  .section-tweleve img{
+    padding-left:10px;
+  }
+  .section-13{
+    background-color:#F1E5D1;
+    color:black;
+    padding-left: 10px;
+    margin-bottom:12px;
+  }
+  .section-three__desc,.section-six__desc,.section-ten__desc,.section-nine__desc,.section-four__desc,.section-five__desc{
+    padding-left: 25px;
+  }
+  .section-eleven{
+    padding-left:15px;
+  }
+  .section-seven__desc{
+    padding-left:21px;
+  }
+  .section-eleven,.section-tweleve{
+    background-color:#DBB5B5 ;
+    color:black;
+    margin:0px;
+  }
