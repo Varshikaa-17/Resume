@@ -15,6 +15,6 @@ CSS
 
 ## Usage
 To view the resume page:
-Clone the repository: git clone https://github.com/your-username/resume-page.git
+git link: https://varshikaa-17.github.io/Resume/
 Navigate to the project directory.
 Open index.html in a web browser.
